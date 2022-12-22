@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\igorsilv\PycharmProjects\acessos_canal_do_povo\venv"
+VIRTUAL_ENV="C:\Users\igorm\OneDrive\Documentos\GitHub\acessos_canal_do_povo\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
